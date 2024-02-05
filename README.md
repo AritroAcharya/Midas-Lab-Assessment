@@ -41,3 +41,12 @@ and functionality of your changes.
 - As a bonus challenge, write tests for your implementation. This includes unit tests for
 the Stripe integration and the new fields in the user model, as well as integration tests
 that cover the signup process and the GET /accounts endpoint functionality.
+
+**Key topics**:
+
+1) Setting up a Stripe account and obtaining necessary API credentials
+2) Configuring the Stripe Java library in your Spring Boot project
+3) Implementing payment workflows, including customer creation, payment methods, and charges
+4) Handling one-time payments and recurring subscriptions using Stripe in Spring Boot
+5) Managing webhooks for asynchronous payment event handling
+6) Testing and debugging your Stripe integration in a Java Spring Boot application
